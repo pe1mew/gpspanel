@@ -8,7 +8,7 @@ GPS Panel is a simple web application to present information from your GPS. It d
 GPS Panel is based on [Python Flask](http://flask.pocoo.org/) micro-framework. It has a built-in webserver and by default listens on port 8625. Install the pre-requisites:
 
 ```
-$sudo pip install -r requirements.txt 
+$sudo pip3 install -r requirements.txt 
 ```
 
 Copy the **gpspanel** folder to  **DIRECTORY** (eg. /var/www/)
